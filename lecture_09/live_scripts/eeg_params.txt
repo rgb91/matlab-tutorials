@@ -1,0 +1,7 @@
+sampling_rate_hz	256
+duration_sec	4.0
+n_channels	8
+n_samples	1024
+channel_names	Fz,Cz,Pz,Oz,F3,F4,C3,C4
+reference	Average
+units	microvolts
